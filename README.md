@@ -16,7 +16,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2497/PNG/512/api_interface_icon_150308.png" height="40">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_wordmark_logo_icon_146555.png" height="32"></h3>
 <br>
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="300" align="right">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="350" align="right">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBakushin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
