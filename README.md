@@ -20,6 +20,7 @@
 <h3 align="center">bakushin35@gmail.com <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" height="32"/</h3>
 <br>
 <br>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height='300">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBakushin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
