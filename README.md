@@ -19,12 +19,10 @@
 
 <div style="display: flex;">
     <div>
-        <!-- Ваш первый блок статистики -->
         <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="300">
     </div>
     <div>
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBakushin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBakushin)](https://github.com/anuraghazra/github-readme-stats)
     </div>
 </div>
