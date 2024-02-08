@@ -21,11 +21,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBakushin)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height='300">
+
 <h3 align="center">https://t.me/alex_bakushin <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" height="32"/</h3>
 <h3 align="center">bakushin35@gmail.com <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" height="32"/</h3>
-<br>
-<br>
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height='600">
 
 
 
