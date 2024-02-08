@@ -24,7 +24,9 @@
 
 <h3 align="center">https://t.me/alex_bakushin <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" height="32"/</h3>
 <h3 align="center">bakushin35@gmail.com <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" height="32"/</h3>
-<h3 align="center">https://krasnoufimsk.hh.ru/resume/aa0f015fff09c406000039ed1f714f6c676c49 <img src="https://hhcdn.ru/ichameleon/00181.png" height="32"/</h3>
+
+
+<a href="https://krasnoufimsk.hh.ru/resume/aa0f015fff09c406000039ed1f714f6c676c49">Мое резюме на HeadHunter<img src="https://hhcdn.ru/ichameleon/00181.png" height="32"></a>
 
 
 
