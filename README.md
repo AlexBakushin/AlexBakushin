@@ -6,8 +6,8 @@
 <br>
 <h3 align="center"><img src="https://cdn.icon-icons.com/icons2/1320/PNG/512/-russia_86889.png" height="32"/>- Являюсь начинающим программистом, владеющим языком программирования Python. Опыт работы с фреймворком Django, а также участие в разработке различных проектов, в том числе в области веб-разработки и анализа данных. Имею стремление к дальнейшему профессиональному росту в области программирования на Python. <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="24"/</h3>
 
-<h5>languages and tools:</h5> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="24">
-                              <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" height="24">
+<h5>languages and tools:<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="24">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="24"></h5>
 
 <h3 align="center">https://t.me/alex_bakushin <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" height="32"/</h3>
 <h3 align="center">bakushin35@gmail.com <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" height="32"/</h3>
