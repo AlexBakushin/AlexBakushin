@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alex</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/alex_bakushin" target="_blank">Alex</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <br>
 <h3 align="center"><img src="https://cdn.icon-icons.com/icons2/230/PNG/256/UnitedStates_US_USA_840_Flag1_26093.png" height="32"/>- I am a beginner programmer who speaks the Python programming language. Experience working with the Django framework, as well as participation in the development of various projects, including in the field of web development and data analysis. I have a desire for further professional growth in the field of Python programming. <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="24"/</h3>
@@ -24,7 +24,7 @@
 
 <h3 align="center">bakushin35@gmail.com <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" height="32"/</h3>
 
-<a href="https://t.me/alex_bakushin ">Я в telegram! <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" height="32"></a>
+<a href="https://t.me/alex_bakushin">Я в telegram! <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" height="32"></a>
 
 <a href="https://krasnoufimsk.hh.ru/resume/aa0f015fff09c406000039ed1f714f6c676c49">Мое резюме на HeadHunter  <img src="https://hhcdn.ru/ichameleon/00181.png" height="32"></a>
 
