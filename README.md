@@ -1,34 +1,144 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/alex_bakushin" target="_blank">Alex</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<br>
-<h3 align="center"><img src="https://cdn.icon-icons.com/icons2/230/PNG/256/UnitedStates_US_USA_840_Flag1_26093.png" height="32"/>- I am a beginner programmer who speaks the Python programming language. Experience working with the Django framework, as well as participation in the development of various projects, including in the field of web development and data analysis. I have a desire for further professional growth in the field of Python programming. <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="24"/</h3>
+<h1 align="center"> Привет, я Александр | Hi, I'm Alexander</h1>
+<h3 align="center">Backend Python Developer • Архитектура • Highload</h3>
 
-<br>
-<h3 align="center"><img src="https://cdn.icon-icons.com/icons2/1320/PNG/512/-russia_86889.png" height="32"/>- Являюсь начинающим программистом, владеющим языком программирования Python. Опыт работы с фреймворком Django, а также участие в разработке различных проектов, в том числе в области веб-разработки и анализа данных. Имею стремление к дальнейшему профессиональному росту в области программирования на Python. <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="24"/</h3>
+<p align="center">
+  <a href="https://t.me/alex_bakushin">
+    <img src="https://img.shields.io/badge/Telegram-Написать-blue?logo=telegram" />
+  </a>
+  <a href="mailto:bakushin35@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
 
-<h3>Languages and tools:  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" height="32">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" height="32">
-  <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" height="32">
-  <img src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" height="32">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_line_logo_icon_146560.png" height="44">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" height="32">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" height="32">
-  <img src="https://cdn.icon-icons.com/icons2/2497/PNG/512/api_interface_icon_150308.png" height="40">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_wordmark_logo_icon_146555.png" height="32"></h3>
-<br>
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="250" align="right">
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBakushin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# 🇷🇺 О себе
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBakushin)](https://github.com/anuraghazra/github-readme-stats)
+Backend-разработчик на Python, ориентированный на решение бизнес-задач через архитектуру и системное мышление.
 
-<h3 align="center">bakushin35@gmail.com <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" height="32"/</h3>
+Разрабатываю системы **с нуля до production**: от проектирования до деплоя и поддержки.  
+Есть опыт построения **высоконагруженных и распределённых систем**.
 
-<a href="https://t.me/alex_bakushin">Я в telegram! <img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" height="32"></a>
+---
 
-<a href="https://krasnoufimsk.hh.ru/resume/aa0f015fff09c406000039ed1f714f6c676c49">Мое резюме на HeadHunter  <img src="https://hhcdn.ru/ichameleon/00181.png" height="32"></a>
+## Чем занимаюсь
 
+- Проектирование backend-архитектуры  
+- Разработка API и интеграций  
+- Оптимизация БД и запросов  
+- Автоматизация бизнес-процессов  
+- Настройка инфраструктуры и деплоя  
 
+---
 
+## Стек
 
+###  Backend
+![Python](https://img.shields.io/badge/Python-333?logo=python)
+![Django](https://img.shields.io/badge/Django-333?logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-333?logo=fastapi)
 
+###  Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-333?logo=mysql)
+
+###  Асинхронность
+![Celery](https://img.shields.io/badge/Celery-333)
+![Redis](https://img.shields.io/badge/Redis-333?logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-333?logo=rabbitmq)
+
+###  DevOps
+![Docker](https://img.shields.io/badge/Docker-333?logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-333)
+
+---
+
+##  Опыт
+
+###  Платформа автоматизации маркетплейсов
+
+- Микросервисная архитектура (Django + DRF)
+- Интеграции: Ozon, Wildberries, Яндекс.Маркет
+- Распределённая система задач на Celery
+
+**Результат:** система обрабатывает миллионы обновлений в production
+
+---
+
+###  Система синхронизации остатков
+
+- Очереди задач и батчинг запросов  
+- Учет лимитов API  
+- Логирование и мониторинг  
+
+**Эффект:** сокращение ручной работы с часов до минут
+
+---
+
+##  Проекты
+
+- Habit Tracker (Django + Telegram Bot)  
+- Mailing Service (Celery + Redis)  
+- Marketplace Service  
+- Job Parser  
+
+---
+
+# 🇺🇸 About Me
+
+Backend Python developer focused on **building scalable systems and solving real business problems**.
+
+I handle the **full development cycle**: from idea and architecture to deployment and support.
+
+---
+
+##  What I Do
+
+- Backend architecture design  
+- API development & integrations  
+- Database optimization  
+- Business process automation  
+- Infrastructure & deployment  
+
+---
+
+##  Experience Highlights
+
+###  Marketplace Automation Platform
+
+- Microservice architecture  
+- Django + DRF backend  
+- External APIs integration  
+- Distributed Celery system  
+
+Handles **millions of updates in production**
+
+---
+
+###  High-Load Sync System
+
+- Distributed task queues  
+- Smart batching & rate limiting  
+- Logging & monitoring  
+
+Reduced manual work from hours to minutes
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexBakushin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexBakushin&theme=tokyonight" />
+</p>
+
+---
+
+##  Контакты | Contact
+
+- Telegram: https://t.me/alex_bakushin  
+- Email: bakushin35@gmail.com  
+
+---
+
+⭐️ Check out my repositories and feel free to connect!
