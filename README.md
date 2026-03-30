@@ -125,15 +125,6 @@ Reduced manual work from hours to minutes
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexBakushin&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexBakushin&theme=tokyonight" />
-</p>
-
----
-
 ##  Контакты | Contact
 
 - Telegram: https://t.me/alex_bakushin  
