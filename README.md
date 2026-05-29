@@ -31,16 +31,6 @@ Backend Python-разработчик, занимаюсь проектирова
 
 ---
 
-## Чем занимаюсь
-
-- Проектирование backend-архитектуры  
-- Разработка API и интеграций  
-- Оптимизация БД и запросов  
-- Автоматизация бизнес-процессов  
-- Настройка инфраструктуры и деплоя  
-
----
-
 ## Стек
 
 ###  Backend
@@ -99,30 +89,52 @@ Backend Python-разработчик, занимаюсь проектирова
 
 ---
 
-##  Проекты
+### ПРОЕКТ Local AI Telegram Assistant (RAG)
 
-- Habit Tracker (Django + Telegram Bot)  
-- Mailing Service (Celery + Redis)  
-- Marketplace Service  
-- Job Parser  
+Локальный AI-ассистент для Telegram с поддержкой semantic search и retrieval-архитектуры.
+
+#### Возможности:
+
+* загрузка документов (.txt / .pdf / .docx)
+* семантическое разбиение текста
+* хранение эмбеддингов в Qdrant
+* retrieval pipeline с контекстными окнами
+* поиск по пользовательским данным
+* локальная LLM через Ollama
+* AI-router для определения типа запроса
+* потоковая генерация ответов
+
+#### Стек:
+
+Python, Aiogram 3, Qdrant, Ollama, SentenceTransformers, LlamaIndex, Docker
+
+#### Архитектура:
+
+Telegram → Router → Embedding → Qdrant → Retrieval → LLM → Streaming Response
 
 ---
 
 # 🇺🇸 About Me
 
-Backend Python developer focused on **building scalable systems and solving real business problems**.
+Backend Python Developer specializing in backend system design, AI integrations, and RAG architectures.
 
-I handle the **full development cycle**: from idea and architecture to deployment and support.
+I build production-ready services — from APIs and business logic to infrastructure, asynchronous task processing, and AI pipelines.
 
----
+Tech stack:
 
-##  What I Do
+Django / FastAPI
 
-- Backend architecture design  
-- API development & integrations  
-- Database optimization  
-- Business process automation  
-- Infrastructure & deployment  
+Asynchronous architectures
+
+Vector databases
+
+Local LLMs
+
+Semantic search and RAG systems
+
+Docker-based infrastructure
+
+I’m passionate about AI Engineering, retrieval systems, and building AI assistants on top of enterprise data.
 
 ---
 
