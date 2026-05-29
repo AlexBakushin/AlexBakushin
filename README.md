@@ -1,5 +1,5 @@
 <h1 align="center"> Привет, я Александр | Hi, I'm Alexander</h1>
-<h3 align="center">Backend Python Developer • Архитектура • Highload</h3>
+<h3 align="center">Backend Python Developer • AI Systems • RAG • Architecture</h3>
 
 <p align="center">
   <a href="https://t.me/alex_bakushin">
@@ -14,10 +14,20 @@
 
 # 🇷🇺 О себе
 
-Backend-разработчик на Python, ориентированный на решение бизнес-задач через архитектуру и системное мышление.
+Backend Python-разработчик, занимаюсь проектированием backend-систем, AI-интеграций и RAG-архитектур.
 
-Разрабатываю системы **с нуля до production**: от проектирования до деплоя и поддержки.  
-Есть опыт построения **высоконагруженных и распределённых систем**.
+Разрабатываю production-ready сервисы: от API и бизнес-логики до инфраструктуры, асинхронной обработки задач и AI-пайплайнов.
+
+Работаю с:
+
+* Django / FastAPI
+* асинхронной архитектурой
+* векторными БД
+* локальными LLM
+* semantic search и RAG-системами
+* Docker-инфраструктурой
+
+Интересуюсь направлением AI Engineering, retrieval systems и построением AI-ассистентов поверх корпоративных данных.
 
 ---
 
@@ -50,6 +60,20 @@ Backend-разработчик на Python, ориентированный на 
 ###  DevOps
 ![Docker](https://img.shields.io/badge/Docker-333?logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-333)
+
+## AI / LLM / RAG
+
+![Ollama](https://img.shields.io/badge/Ollama-333?logo=ollama)
+![Qdrant](https://img.shields.io/badge/Qdrant-333)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-333?logo=openai)
+![LLM](https://img.shields.io/badge/LLM-333)
+![RAG](https://img.shields.io/badge/RAG-333)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-333)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-333)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-333)
+![Vector Search](https://img.shields.io/badge/Vector_Search-333)
+![Aiogram](https://img.shields.io/badge/Aiogram-333)
+![LangGraph](https://img.shields.io/badge/LangGraph-333)
 
 ---
 
@@ -128,8 +152,4 @@ Reduced manual work from hours to minutes
 ##  Контакты | Contact
 
 - Telegram: https://t.me/alex_bakushin  
-- Email: bakushin35@gmail.com  
-
----
-
-⭐️ Check out my repositories and feel free to connect!
+- Email: bakushin35@gmail.com
