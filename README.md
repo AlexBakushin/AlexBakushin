@@ -122,15 +122,11 @@ I build production-ready services — from APIs and business logic to infrastruc
 
 Tech stack:
 
-Django / FastAPI
-
-Asynchronous architectures
-
-Vector databases
-
-Local LLMs
-
-Semantic search and RAG systems
+* Django / FastAPI
+* Asynchronous architectures
+* Vector databases
+* Local LLMs
+* Semantic search and RAG systems
 
 Docker-based infrastructure
 
